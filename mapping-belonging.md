@@ -1,14 +1,9 @@
----
-title: "Mapping Belonging: An Intersectional Critique of *Islands in the North*"
-author: "Shekhar Rana"
-issue: "CTRL+ALT+DH, Fall 2025 — A Byte of Creativity"
-date: "October 2025"
-summary: "An intersectional analysis of *Islands in the North*, a digital exhibit that remaps Black Toronto through data, design, and belonging. Using Kimberlé Crenshaw’s theory of intersectionality, this piece examines how digital tools can reframe cultural memory and visibility in creative, activist ways."
-citation: "Rana, Shekhar. “Mapping Belonging: An Intersectional Critique of *Islands in the North*.” *CTRL+ALT+DH*, Fall 2025."
-tags: ["digital humanities", "intersectionality", "Black Toronto", "GIS mapping", "digital activism"]
----
-
 # Mapping Belonging: An Intersectional Critique of *Islands in the North*
+
+**Author:** Shekhar Rana  
+**Issue:** CTRL+ALT+DH, Fall 2025 — *A Byte of Creativity*  
+**Date:** October 2025  
+
 
 
 > *“Without frames that allow us to see how social problems impact all the members of a targeted group, many will fall through the cracks of our movements.”*  
