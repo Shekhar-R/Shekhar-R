@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Shekhar-R/Shekhar-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CTS*4000 – Digital Publishing Journal Submission
 
-Here are some ideas to get you started:
+This repository contains my submission for the Fall 2025 *CTRL+ALT+DH* issue, **A Byte of Creativity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Title:** *Mapping Belonging: An Intersectional Critique of Islands in the North*  
+**Author:** Shekhar Rana  
+**Course:** CTS*4000 – Digital Publishing (University of Guelph)  
+**Professor:** Chelsea Miya  
+**Date:** October 2025  
+
+---
+
+## Repository Structure
