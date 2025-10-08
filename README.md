@@ -35,4 +35,4 @@ For feedback or collaboration, please contact me via GitHub or through my Univer
 ## Repository Structure
 #### README.md
 #### mapping-belonging.md
-### [Mapping Belonging](https://www.example.com)
+### [Mapping Belonging](https://github.com/Shekhar-R/Shekhar-R/blob/main/mapping-belonging.md)
