@@ -4,24 +4,19 @@
 **Issue:** CTRL+ALT+DH, Fall 2025 — *A Byte of Creativity*  
 **Date:** October 2025  
 
-
-
 > *“Without frames that allow us to see how social problems impact all the members of a targeted group, many will fall through the cracks of our movements.”*  
 > — Kimberlé Crenshaw[^1]
+---
 
-![Scooter’s Roller World Poster](images/scooters-poster.webp "Poster from Scooter’s Roller World, 1992. Source: Islands in the North.")
+Toronto is often celebrated for its diversity, but who gets remembered in its official histories and who gets left out? *Islands in the North*, a digital exhibit created by Dr. Marlene Gaynair, reimagines the city through the experiences of Black Caribbean immigrants. This interactive project overlays archives, oral histories, music, advertisements, and photographs onto a map of Toronto, bringing to life the people and places that helped shape the city’s Black diasporic culture.
 
-Toronto is often celebrated for its diversity, but who gets remembered in its official histories—and who gets left out? *Islands in the North*, a digital exhibit created by Dr. Marlene Gaynair, reimagines the city through the experiences of Black Caribbean immigrants. This interactive project overlays archives, oral histories, music, advertisements, and photographs onto a map of Toronto, bringing to life the people and places that helped shape the city’s Black diasporic culture.
-
-As someone who grew up in Toronto, this project hit close to home. I recognized many of the neighbourhoods on the map—Eglinton West, Bathurst and Bloor, and Rexdale—and discovered stories and organizations I’d never heard of before, like the Jamaican Canadian Association. To critically engage with *Islands in the North*, I turn to Kimberlé Crenshaw’s concept of **intersectionality**, a framework that helps reveal how overlapping systems of power, race, gender, class, and migration shape lived experiences. Crenshaw reminds us that without the right frame, some people remain invisible. *Islands in the North* builds that missing frame. It gives us a multidimensional view of Toronto that resists the flattening of Black Caribbean life into a single narrative.
+As someone who grew up in Toronto, this project hit close to home. I recognized many of the neighbourhoods on the map—Eglinton West, Bathurst and Bloor, and Rexdale and discovered stories and organizations I’d never heard of before, like the Jamaican Canadian Association. To critically engage with *Islands in the North*, I turn to Kimberlé Crenshaw’s concept of **intersectionality**, a framework that helps reveal how overlapping systems of power, race, gender, class, and migration shape lived experiences. Crenshaw reminds us that without the right frame, some people remain invisible. *Islands in the North* builds that missing frame. It gives us a multidimensional view of Toronto that resists the flattening of Black Caribbean life into a single narrative.
 
 ---
 
 ## Re-mapping Black Toronto
 
 The project is described as a “(re)creation of space and place in the archive”[^2]—a digital effort to map what Gaynair calls “Black Toronto.” Gaynair uses GIS tools to visualize cultural landmarks, community organizations, and popular gathering places, both past and present. The interface is clean but extensive: users can scroll through the interactive **Making Space** map, search the OMEKA-powered database, or explore a now-inactive visual timeline called **Making Place**.
-
-![Eglinton West Neighbourhood (Little Jamaica)](images/eglinton-west.webp "Photograph of Little Jamaica, Toronto. Mentioned in essay context.")
 
 The map features points categorized as churches, bakeries, nightclubs, community centres, beauty salons, and more. Each entry offers basic metadata like the name, address, and operational dates. Some database entries go deeper, including posters, personal descriptions, and archival photos. For example, Scooter’s Roller World in Rexdale is listed with a flyer from a “gangster rap extravaganza”[^2] in 1992, while the Horseshoe Tavern is noted as a key music venue in the 1990s.
 
