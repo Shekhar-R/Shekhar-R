@@ -32,7 +32,6 @@ For feedback or collaboration, please contact me via GitHub or through my Univer
 
 ---
 
-## Repository Structure
-#### README.md
-#### mapping-belonging.md
+## Repository Map
+#### [Read Me]()
 ### [Mapping Belonging](https://github.com/Shekhar-R/Shekhar-R/blob/main/mapping-belonging.md)
