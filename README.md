@@ -33,5 +33,5 @@ For feedback or collaboration, please contact me via GitHub or through my Univer
 ---
 
 ## Repository Map
-#### [Read Me]()
+#### [Read Me](https://github.com/Shekhar-R/Shekhar-R/blob/main/README.md)
 ### [Mapping Belonging](https://github.com/Shekhar-R/Shekhar-R/blob/main/mapping-belonging.md)
