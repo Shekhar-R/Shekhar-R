@@ -86,3 +86,4 @@ Elizabeth Grace Saunders, “Stop Being a People-Pleaser,” Harvard Business Re
 
 [^mills]: https://www.youtube.com/watch?v=5zr_9-5Xw9s
 [^hbr]: https://hbr.org/2012/10/stop-being-a-people-pleaser
+ 
